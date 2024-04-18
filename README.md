@@ -1,7 +1,7 @@
 ## <p align="center"> Hey! I'm Leonardo Rodrigues 
 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRodrigues1&layout=compact&theme=radical"/>
+<img align="left" height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRodrigues1&layout=compact&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorodrigues1&show_icons=true&locale=en&theme=radical"/>
 
 <i>
