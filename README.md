@@ -2,7 +2,7 @@
 
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRodrigues1&layout=compact&theme=radical"/>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoRodrigues1&show_icons=true&locale=en&theme=radical"/></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&locale=en&theme=radical"/></p>
 
 <i>
   <h3 align="left">Languages and Tools:</h3>
